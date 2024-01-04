@@ -72,7 +72,7 @@ Validate multiple inputs at once by passing an array of validation functions.
 
 // ... (import statements)
 
-import { validateAll, validateEmail, validateTextInput, validateNumberInput } from './validationLibrary';
+import { validateAll, validateEmail, validateTextInput, validateNumberInput } from 'react-form-validation';
 
 function YourReactComponent() {
   const [email, setEmail] = useState('');
