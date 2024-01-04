@@ -1,0 +1,32 @@
+{
+    "name": "react-form-validation",
+    "version": "1.0.0",
+    "description": "A simple JS form validation library",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+        "react",
+        "jquery",
+        "js",
+        "form",
+        "validation"
+    ],
+    "author": "Tabish Zaman",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Tabish-binaryvibes/React-Form-Validation.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Tabish-binaryvibes/React-Form-Validation/issues"
+    },
+    "homepage": "https://github.com/Tabish-binaryvibes/React-Form-Validation",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    },
+    "engines": {
+        "node": ">=10.0.0"
+    }
+}
